@@ -9,17 +9,11 @@
 > A comprehensive collection of Python scripts, automation examples, DevOps utilities, system administration tools, infrastructure management, cloud automation, monitoring solutions, and real-world administrative projects.
 
 
-<img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="27"/>
 
-<img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="27"/>
 
-<img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="27"/>
 
-<img src="https://img.shields.io/static/v1?message=Proton%20Mail&logo=protonmail&label=&color=7341FF&logoColor=white&style=for-the-badge" height="27"/>
 
-<img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="27"/>
 
-<img src="https://img.shields.io/static/v1?message=Twitter&logo=x&label=&color=000000&logoColor=white&style=for-the-badge" height="27"/>
 
 # Support the Project
 
