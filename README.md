@@ -2,7 +2,6 @@
 
 > A curated and organized collection of resources related to **Python-System-Administration**.
 
-**Maintained by [Humayun Shariar Himu](https://github.com/HumayunShariarHimu)**
 
 # Python System Administration
 
