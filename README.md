@@ -5,8 +5,6 @@
 
 # Python System Administration
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UClhKVCHjOxBTNM50lOBTgoA)
-![Discord](https://img.shields.io/discord/1163365511309049948)
 
 > A comprehensive collection of Python scripts, automation examples, DevOps utilities, system administration tools, infrastructure management, cloud automation, monitoring solutions, and real-world administrative projects.
 
